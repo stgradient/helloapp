@@ -9,3 +9,6 @@ string GreetBlack()
 {
     return "Hello Black";
 }
+
+GreetBlack();
+GreetWhite();
